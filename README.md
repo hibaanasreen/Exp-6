@@ -15,7 +15,8 @@ To design and develop a Student Online Exam Registration System that enables stu
 Usecase Diagram
 ```
 
-<img width="1169" height="882" alt="image" src="https://github.com/user-attachments/assets/f9871699-321d-4c01-b390-6d8a19ba2713" />
+<img width="998" height="876" alt="image" src="https://github.com/user-attachments/assets/fcedaf62-aac9-4dd3-954a-6d5565a47d8d" />
+
 
 ```python
 Class Diagram
